@@ -35,8 +35,11 @@ Se presenta una lista con la descripción de las columnas del dataset. NOTA: En 
 
 ### Conformación del equipo – Integrantes
 
-•	Paula Bracco
-•	Ricardo Alvarez
-•	Rossana Scavone
-•	Santiago Gegenschatz
-•	Sergio Saavedra Campos
+
+*Tutor*: Michael Olmos Trujillo
+
+- Paula Bracco
+- Ricardo Alvarez
+- Rossana Scavone
+- Santiago Gegenschatz
+- Sergio Saavedra Campos
